@@ -1,6 +1,6 @@
-### Oi 👋, eu sou Maycon Morais, estudante Full-Stack da Blue EdTech!   <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100">
+### Oi 👋, eu sou Maycon Morais, Desenvolvedor Full-Stack!   <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100">
 
-- 🌱 Atualmente estou estudando Vanilla Javascript, Python, CSS3, HTML5, NodeJS e ReactJs.
+- 🌱 Atualmente estou estudando Vanilla Javascript, Typescript, CSS3, HTML5, NodeJS e ReactJs.
 -->
 
 <div align="center">
